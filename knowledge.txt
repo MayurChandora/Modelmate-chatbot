@@ -1,0 +1,59 @@
+1. What is Machine Learning?
+Machine Learning is a subset of AI that allows systems to learn patterns from data and make predictions or decisions without being explicitly programmed.
+
+2. What are machine learning models?
+Machine learning models are algorithms that learn from data to perform tasks like classification, regression, or clustering.
+
+3. Which model should I use for classification?
+For classification, common models include Logistic Regression, Decision Trees, Random Forest, SVM, and KNN depending on data complexity.
+
+4. Which model is best for regression problems?
+Linear Regression, Ridge, Lasso, Decision Trees, and Random Forest are commonly used for regression tasks.
+
+5. Which algorithm is used for clustering?
+K-Means, Hierarchical Clustering, and DBSCAN are popular algorithms used for clustering tasks.
+
+6. How do I choose the right machine learning model?
+Choose based on problem type, dataset size, feature type, and required accuracy. Start simple and increase complexity if needed.
+
+7. What factors affect model selection?
+Dataset size, feature type, interpretability, training time, and accuracy requirements are key factors.
+
+8. Which model is suitable for small datasets?
+Simple models like Logistic Regression or Decision Trees are better for small datasets to avoid overfitting.
+
+9. Which model is good for large datasets?
+Random Forest, Gradient Boosting, and Neural Networks perform well on large datasets.
+
+10. Which model works well with high-dimensional data?
+SVM and Logistic Regression are effective for high-dimensional datasets.
+
+11. Which algorithm handles categorical data well?
+Decision Trees and Random Forest handle categorical data naturally, while others require encoding.
+
+12. What is overfitting?
+Overfitting occurs when a model learns noise from training data and performs poorly on new data.
+
+13. How can I reduce overfitting?
+Use regularization, cross-validation, pruning, and more training data.
+
+14. What is underfitting?
+Underfitting happens when a model is too simple to capture patterns in the data.
+
+15. How can I improve model accuracy?
+Improve accuracy by tuning hyperparameters, using better features, and applying cross-validation.
+
+16. What is hyperparameter tuning?
+It is the process of selecting optimal parameters for a model using techniques like grid search or random search.
+
+17. Which evaluation metric is best for classification?
+Accuracy, precision, recall, and F1-score are commonly used depending on dataset balance.
+
+18. Which evaluation metric is best for regression?
+Mean Squared Error, Mean Absolute Error, and R-squared are commonly used.
+
+19. When should I use Random Forest?
+Use Random Forest when you need high accuracy and want to reduce overfitting compared to a single decision tree.
+
+20. When should I use KNN?
+Use KNN for simple problems with small datasets, where similarity between data points is important.
